@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>so-spider</name>
-    <description>一个简单的分布式爬虫框架 | A simple distributed crawler framework</description>
+    <description>🕷一个简单的分布式爬虫框架 | A simple distributed crawler framework</description>
 
     <developers>
         <developer>
